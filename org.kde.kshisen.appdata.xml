@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component type="desktop">
+  <id>org.kde.kshisen.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KShisen</name>
+  <name xml:lang="ca">KShisen</name>
+  <name xml:lang="ca-valencia">KShisen</name>
+  <name xml:lang="cs">KShisen</name>
+  <name xml:lang="da">KShisen</name>
+  <name xml:lang="de">KShisen</name>
+  <name xml:lang="el">KShisen</name>
+  <name xml:lang="en-GB">KShisen</name>
+  <name xml:lang="es">KShisen</name>
+  <name xml:lang="et">KShisen</name>
+  <name xml:lang="eu">KShisen</name>
+  <name xml:lang="fi">KShisen</name>
+  <name xml:lang="fr">KShisen</name>
+  <name xml:lang="gl">KShisen</name>
+  <name xml:lang="id">KShisen</name>
+  <name xml:lang="it">KShisen</name>
+  <name xml:lang="ko">KShisen</name>
+  <name xml:lang="nl">KShisen</name>
+  <name xml:lang="nn">KShisen</name>
+  <name xml:lang="pl">KShisen</name>
+  <name xml:lang="pt">KShisen</name>
+  <name xml:lang="pt-BR">KShisen</name>
+  <name xml:lang="ru">KShisen</name>
+  <name xml:lang="sk">KShisen</name>
+  <name xml:lang="sl">KShisen</name>
+  <name xml:lang="sr">К‑шисен</name>
+  <name xml:lang="sr-Latn">KShisen</name>
+  <name xml:lang="sr-ijekavian">К‑шисен</name>
+  <name xml:lang="sr-ijekavianlatin">KShisen</name>
+  <name xml:lang="sv">Kshisen</name>
+  <name xml:lang="tr">KShisen</name>
+  <name xml:lang="uk">KShisen</name>
+  <name xml:lang="x-test">xxKShisenxx</name>
+  <name xml:lang="zh-CN">KShisen</name>
+  <name xml:lang="zh-TW">KShisen</name>
+  <summary>Shisen-Sho Mahjongg-like Tile Game</summary>
+  <summary xml:lang="ca">Joc de mosaics Shisen-Sho a l'estil Mahjongg</summary>
+  <summary xml:lang="ca-valencia">Joc de mosaics Shisen-Sho a l'estil Mahjongg</summary>
+  <summary xml:lang="cs">Hra s dlaždicemi Šisen-Šo</summary>
+  <summary xml:lang="de">Spiel mit Mahjongg-Spielsteinen</summary>
+  <summary xml:lang="el">Παιχνίδι Shisen-Sho με πλακάκια όπως το Mahjongg</summary>
+  <summary xml:lang="en-GB">Shisen-Sho Mahjongg-like Tile Game</summary>
+  <summary xml:lang="es">Juego de fichas similar al Shisen-Sho Mahjongg</summary>
+  <summary xml:lang="et">Mahjonggi moodi klotsimäng</summary>
+  <summary xml:lang="eu">«Shisen-Sho» «Mahjongg» antzeko fitxa jokoa</summary>
+  <summary xml:lang="fi">Shisen-sho, mahjongmainen laattapeli</summary>
+  <summary xml:lang="fr">Jeu de tuiles Shisen-Sho dans le style du Mahjongg</summary>
+  <summary xml:lang="gl">Xogo de fichas Shisen-so ao estilo do Mahjongg</summary>
+  <summary xml:lang="id">Shisen-Sho Permainan Kartu Seperti Mahjongg</summary>
+  <summary xml:lang="it">Gioco di tessere in stile Shisen-Sho Mahjongg</summary>
+  <summary xml:lang="ko">시센-쇼 마작과 같은 타일 게임</summary>
+  <summary xml:lang="nl">Shisen-Sho Mahjongg-achtig stenenspel</summary>
+  <summary xml:lang="nn">Shisen-Sho mahjong-liknande brikkespel</summary>
+  <summary xml:lang="pl">Gra typu Shisen-Sho Mahjongg</summary>
+  <summary xml:lang="pt">Jogo de Peças à Mahjongg Shisen-Sho</summary>
+  <summary xml:lang="pt-BR">Jogo de peças parecido com Shisen-Sho Mahjongg</summary>
+  <summary xml:lang="ru">Вариант маджонга: Ши-сен-сё</summary>
+  <summary xml:lang="sk">Hra typu Shisen-Sho Mahjongg</summary>
+  <summary xml:lang="sl">Igra s ploščicami Shisen-Sho, podobna Mahjonggu</summary>
+  <summary xml:lang="sr">Игра с плочицама попут маџонга</summary>
+  <summary xml:lang="sr-Latn">Igra s pločicama poput madžonga</summary>
+  <summary xml:lang="sr-ijekavian">Игра с плочицама попут маџонга</summary>
+  <summary xml:lang="sr-ijekavianlatin">Igra s pločicama poput madžonga</summary>
+  <summary xml:lang="sv">Shisen-Sho Mahjongg-liknande brickspel</summary>
+  <summary xml:lang="tr">Shisen-Sho Mahjongg Benzeri Döşeme Oyunu</summary>
+  <summary xml:lang="uk">Шісен-шо, схожа на маджонґ гра з плитками</summary>
+  <summary xml:lang="x-test">xxShisen-Sho Mahjongg-like Tile Gamexx</summary>
+  <summary xml:lang="zh-CN">类似连连看的麻将游戏</summary>
+  <summary xml:lang="zh-TW">四川省麻將牌遊戲</summary>
+  <description>
+    <p>
+      KShisen is a solitaire-like game played using the standard set of Mahjong tiles. Unlike Mahjong however, KShisen has only one layer of scrambled tiles.
+    </p>
+    <p xml:lang="ca">El KShisen és un joc de tipus solitari que es juga usant el joc de fitxes estàndard de Mahjong. A diferència de Mahjong, el KShisen només té una capa de fitxes barrejades.</p>
+    <p xml:lang="ca-valencia">El KShisen és un joc de tipus solitari que es juga usant el joc de fitxes estàndard de Mahjong. A diferència de Mahjong, el KShisen només té una capa de fitxes barrejades.</p>
+    <p xml:lang="cs">KShisen je hra pro jednoho hráče. Při hře se používá standardní sestava kamenů hry Mahjong. Avšak na rozdíl od Mahjongu KShisen má pouze jednu vrstvu zamíchaných dlaždic.</p>
+    <p xml:lang="de">KShisen ähnelt dem Spiel Solitär und wird mit Mahjong-Steinen gespielt. Anders als bei Mahjong, gibt es bei KShisen aber nur eine Ebene gemischter Steine.</p>
+    <p xml:lang="el">Το KShisen είναι ένα παιχνίδι που παίζεται με τα πλακάκια του Mahjong. Όμως αντίθετα από το Mahjong, το KShisen έχει ένα μόνο επίπεδο με πλακάκια.</p>
+    <p xml:lang="en-GB">KShisen is a solitaire-like game played using the standard set of Mahjong tiles. Unlike Mahjong however, KShisen has only one layer of scrambled tiles.</p>
+    <p xml:lang="es">KShisen es un juego de solitario que se juega usando las fichas típicas del Mahjong. Al contrario del Mahjong, KShisen solo tiene una capa de fichas barajadas.</p>
+    <p xml:lang="et">KShisen on Mahjonggi moodi mäng, mida mängitaksegi Mahjonggile omaste klotsidega. Viimasest erinevalt on siin aga ainult üks kiht klotse.</p>
+    <p xml:lang="eu">KShisen «Mahjong»eko fitxa-multzo estandarra erabiltzen duen bakar-joko antzeko joko bat da. Dena den, «Mahjong»ek ez bezela, KShisen-ek fitxa nahasien geruza bakarra du.</p>
+    <p xml:lang="fi">KShisen on pasianssimainen peli, joka käyttää tavallisia mahjong-tiiliä. Mahjongista poiketen KShisenissä on kuitenkin vain yksi kerros sekoitettuja tiiliä.</p>
+    <p xml:lang="fr">KShisen est un jeu en solitaire qui se joue en utilisant les tuiles standard du Mahjong. A la différence du Mahjong, KShisen n'a qu'une couche de tuiles mélangées.</p>
+    <p xml:lang="gl">O KShisen é un xogo similar ao solitario que se xoga usando as pezas estándar do Mahjong. Porén, a diferenza do Mahjong, o KShisen ten só unha capa de pezas desordenadas.</p>
+    <p xml:lang="id">KShisen adalah game seperti solitaire yang dimainkan menggunakan set standar kartu Mahjong. Namun tidak seperti Mahjong, KShisen hanya memiliki satu lapis kartu yang diacak.</p>
+    <p xml:lang="it">KShisen è un solitario che si gioca col gruppo standard di tessere Mahjong. Tuttavia, a differenza del Mahjong, KShisen possiede solo un livello di tessere mescolate.</p>
+    <p xml:lang="ko">KShisen은 마작 타일을 사용하는 카드 놀이 게임입니다. KShisen에는 한 층의 타일만 존재합니다.</p>
+    <p xml:lang="nl">KShisen is een solitaire-achtig spel dat wordt gespeeld met de standaard set Mahjong stenen. Anders dan Mahjong heeft KShisen slechts één laag door elkaar gehaalde stenen.</p>
+    <p xml:lang="nn">KShisen er eit kaballiknande spel som ein spelar med vanleg mahjongbrikker. I motsetning ti spelet mahjong har ein berre eitt lag med brikker.</p>
+    <p xml:lang="pl">KShisen jest grą typu pasjans z standardowym zestawem kamieni Mahjong. W odróżnieniu od Mahjonga, KShisen ma tylko jedną warstwę rozrzuconych kamieni.</p>
+    <p xml:lang="pt">O KShisen é um jogo solitário, jogando com um conjunto-padrão de peças do Mahjong. Ao contrário do Mahjong, contudo, o KShisen só tem uma camada de peças baralhadas.</p>
+    <p xml:lang="pt-BR">KShisen é um jogo solitário, jogado com um conjunto padrão de peças do Mahjong. Ao contrário do Mahjong, o KShisen tem apenas uma camada de peças embaralhadas.</p>
+    <p xml:lang="sk">KShinsen je hra podobná Solitaire, ktorá sa hrá so štandardnou sadou Mahjong. Na rozdiel od Mahjong má iba jednu vrstvu zamiešaných kariet.</p>
+    <p xml:lang="sl">KShisen je pasjansi podobna igra, ki uporablja običajni nabor ploščic Mahjonga. Za razliko od Mahjonga pa ima KShisen le eno plast pomešanih ploščic.</p>
+    <p xml:lang="sr">К‑шисен је игра налик на пасијанс са стандардним скупом маџонг плочица. За разлику од маџонга, К‑шисен има само један слој измешаних плочица.</p>
+    <p xml:lang="sr-Latn">KShisen je igra nalik na pasijans sa standardnim skupom madžong pločica. Za razliku od madžonga, KShisen ima samo jedan sloj izmešanih pločica.</p>
+    <p xml:lang="sr-ijekavian">К‑шисен је игра налик на пасијанс са стандардним скупом маџонг плочица. За разлику од маџонга, К‑шисен има само један слој измешаних плочица.</p>
+    <p xml:lang="sr-ijekavianlatin">KShisen je igra nalik na pasijans sa standardnim skupom madžong pločica. Za razliku od madžonga, KShisen ima samo jedan sloj izmešanih pločica.</p>
+    <p xml:lang="sv">Kshisen är ett patiensliknande spel som spelas med den vanliga uppsättningen Mahjong-brickor. I motsats till Mahjong har Kshisen dock bara ett lager med blandade brickor.</p>
+    <p xml:lang="tr">KShisen, Mahjong standart kiremit kümesini kullanarak oynanan, solitaire benzeri bir oyundur. Bununla birlikte Mahjong'tan farklı olarak, KShisen'in sadece tek katmanlı döşeme vardır.</p>
+    <p xml:lang="uk">KShisen — гра, подібна до пасьянсу, у якій використовуються плитки маджонґа. Втім, на відміну від класичної гри у маджонґ, у KShisen ви матимете справу лише з одним шаром плиток.</p>
+    <p xml:lang="x-test">xxKShisen is a solitaire-like game played using the standard set of Mahjong tiles. Unlike Mahjong however, KShisen has only one layer of scrambled tiles.xx</p>
+    <p xml:lang="zh-CN">KShisen 是一个使用麻将牌的类牌游戏。和麻将配对不同的是，KShisen 只有一层打乱的牌。</p>
+    <p xml:lang="zh-TW">KShisen 是類似四川省麻將的個人遊戲。不過它只有一層。</p>
+  </description>
+  <url type="homepage">https://games.kde.org/games/kshisen</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kshisen</url>
+  <url type="help">https://docs.kde.org/?application=kshisen</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=kshisen&amp;source=appdata</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Playing KShisen</caption>
+      <caption xml:lang="ca">Jugant al KShisen</caption>
+      <caption xml:lang="ca-valencia">Jugant al KShisen</caption>
+      <caption xml:lang="cs">Hraní KShisen</caption>
+      <caption xml:lang="de">KShisen spielen</caption>
+      <caption xml:lang="el">Παίζω KShisen</caption>
+      <caption xml:lang="en-GB">Playing KShisen</caption>
+      <caption xml:lang="es">Jugando a KShisen</caption>
+      <caption xml:lang="et">KShiseni mängimine</caption>
+      <caption xml:lang="eu">KShisen-ean jolastea</caption>
+      <caption xml:lang="fi">KShisenin pelaaminen</caption>
+      <caption xml:lang="fr">Partie de KShisen en cours</caption>
+      <caption xml:lang="gl">Xogando a KShisen</caption>
+      <caption xml:lang="id">Memainkan KShisen</caption>
+      <caption xml:lang="it">Giocare con KShisen</caption>
+      <caption xml:lang="ko">KShisen 플레이</caption>
+      <caption xml:lang="nl">KShisen spelen</caption>
+      <caption xml:lang="nn">Spelar KShisen</caption>
+      <caption xml:lang="pl">Granie w KShisen</caption>
+      <caption xml:lang="pt">Jogo do KShisen</caption>
+      <caption xml:lang="pt-BR">Jogando KShisen</caption>
+      <caption xml:lang="sk">Hrá sa KShisen</caption>
+      <caption xml:lang="sl">Igra KShisen</caption>
+      <caption xml:lang="sv">Spela Kshisen</caption>
+      <caption xml:lang="uk">Гра у KShisen</caption>
+      <caption xml:lang="x-test">xxPlaying KShisenxx</caption>
+      <caption xml:lang="zh-TW">KShisen 遊玩畫面</caption>
+      <image>https://cdn.kde.org/screenshots/kshisen/kshisen.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kshisen</binary>
+  </provides>
+  <releases>
+    <release version="1.11.21080" date="2021-08-12"/>
+    <release version="1.10.21043" date="2021-07-08"/>
+    <release version="1.10.21042" date="2021-06-10"/>
+    <release version="1.10.21041" date="2021-05-13"/>
+  </releases>
+</component>

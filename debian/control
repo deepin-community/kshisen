@@ -1,0 +1,38 @@
+Source: kshisen
+Section: games
+Priority: optional
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Daniel Schepler <schepler@debian.org>,
+           Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>,
+           Norbert Preining <norbert@preining.info>,
+           Sune Vuorela <sune@debian.org>,
+Build-Depends: cmake (>= 3.16~),
+               debhelper-compat (= 13),
+               extra-cmake-modules (>= 5.83.0~),
+               gettext,
+               libkf5config-dev (>= 5.83.0~),
+               libkf5crash-dev (>= 5.83.0~),
+               libkf5dbusaddons-dev (>= 5.83.0~),
+               libkf5doctools-dev (>= 5.83.0~),
+               libkf5kdegames-dev (>= 4:21.04.0~),
+               libkf5kmahjongglib-dev (>= 4:21.04.0~),
+               libkf5xmlgui-dev (>= 5.83.0~),
+               pkg-kde-tools (>> 0.15.15),
+               qtbase5-dev (>= 5.15.0~),
+Standards-Version: 4.5.1
+Rules-Requires-Root: no
+Homepage: http://games.kde.org/
+Vcs-Browser: https://salsa.debian.org/qt-kde-team/kde/kshisen
+Vcs-Git: https://salsa.debian.org/qt-kde-team/kde/kshisen.git
+
+Package: kshisen
+Architecture: any
+Depends: kdegames-mahjongg-data-kf5, ${misc:Depends}, ${shlibs:Depends}
+Recommends: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
+Description: Shisen-Sho solitaire game
+ KShisen is a Shisen-Sho game where the player removes adjascent pairs of
+ Mahjongg tiles to clear the board.
+ .
+ This package is part of the KDE games module.
